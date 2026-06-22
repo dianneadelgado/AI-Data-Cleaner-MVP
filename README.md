@@ -28,7 +28,7 @@ Inconsistent formatting
 Human data-entry errors
 Time-consuming manual cleanup
 
-AI Data Cleaner MVP automates these tasks and provides a cleaner dataset ready for business use.
+CRM Data Quality Automation automates these tasks and provides a cleaner dataset ready for business use.
 
 ---
 ```text 
