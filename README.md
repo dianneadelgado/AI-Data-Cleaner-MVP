@@ -31,7 +31,7 @@ Time-consuming manual cleanup
 AI Data Cleaner MVP automates these tasks and provides a cleaner dataset ready for business use.
 
 ---
-'''text 
+```text 
 
 Workflow
 
@@ -60,6 +60,7 @@ Generate Summary
         │
         ▼
 Email Report
+```
 
 ---
 
