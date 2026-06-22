@@ -4,6 +4,8 @@ AI Data Cleaner MVP is an automation workflow that cleans, validates, standardiz
 
 The workflow is designed to reduce manual spreadsheet cleanup and improve data quality before importing data into CRM, ERP, or analytics systems.
 
+---
+
 Key Benefits
 Remove duplicate records
 Standardize customer and company names
@@ -12,6 +14,7 @@ Improve CRM data quality
 Generate automated cleaning reports
 Run entirely on local AI using Ollama
 
+---
 
 Problem Statement
 
@@ -27,8 +30,11 @@ Time-consuming manual cleanup
 
 AI Data Cleaner MVP automates these tasks and provides a cleaner dataset ready for business use.
 
+---
+'''text 
 
 Workflow
+
 Read Spreadsheet
         │
         ▼
@@ -55,6 +61,7 @@ Generate Summary
         ▼
 Email Report
 
+---
 
 AI Capabilities
 
@@ -66,6 +73,7 @@ Detect data quality issues
 Improve consistency
 Assist with record validation
 
+---
 
 Why I Built This
 
@@ -79,11 +87,15 @@ Practical n8n development
 
 The goal is to show how AI can reduce repetitive operational work while improving data accuracy.
 
+---
+
 ## Author
 
 Dianne Delgado
 
 An engineer focused on building AI-powered business automation systems that streamline operations and reduce manual work.
+
+---
 
 Results
 
